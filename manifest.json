@@ -1,0 +1,11 @@
+{
+  "name": "MessageLogger",
+  "description": "Highlights deleted messages in red.",
+  "authors": [
+    {
+      "name": "Skyler469",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js"
+}
